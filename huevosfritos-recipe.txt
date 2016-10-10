@@ -1,0 +1,11 @@
+Ingredients:
+ - huevos
+ - aceite
+ - sal
+
+Directions:
+ 1. Echa aceite en sartén y calienta.
+ 
+ 2. Fríe los huevos y echa sal.
+ 
+
